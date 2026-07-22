@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Geneston partageons nos idées</title>
+    <link href="https://prihouay.github.io/partageonsnosidees/feed.xml" rel="self" />
+    <link href="https://prihouay.github.io/partageonsnosidees" />
+    <updated>2026-07-22T12:46:51+02:00</updated>
+    <author>
+        <name>Pierre RIHOUAY</name>
+    </author>
+    <id>https://prihouay.github.io/partageonsnosidees</id>
+
+    <entry>
+        <title>Bonjour à tous Voici le premier article !</title>
+        <author>
+            <name>Pierre RIHOUAY</name>
+        </author>
+        <link href="https://prihouay.github.io/partageonsnosidees/bonjour-a-tous-voici-le-premier-article.html"/>
+        <id>https://prihouay.github.io/partageonsnosidees/bonjour-a-tous-voici-le-premier-article.html</id>
+
+        <updated>2026-07-22T12:46:51+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

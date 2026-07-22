@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://prihouay.github.io/partageonsnosidees/sitemap.xml
